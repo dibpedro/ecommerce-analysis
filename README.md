@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Shopping-BI
 
-You can use the [editor on GitHub](https://github.com/dibpedro/shopping-bi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode checar os [arquivos no github](https://github.com/dibpedro/shopping-bi/) para essa visualização. Shopping-BI é o projeto de uma análise dos dados de compra...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 0. Tabela de Conteúdos
+* [0. Tabela de Conteúdos](#0-tabela-de-conteúdos)
+* [1. O conjunto de dados](#1-o-conjunto-de-dados)
+* [2. Algumas perguntas](#2-algumas-perguntas)
+* [3. Visuais e interpretações](#3-visuais-e-interpretações)
+* [4. Oportunidades](#4-oportunidades)
+* [5. Próximos passos](#5-próximos-passos)
+* [Contato](#contato)
 
-### Markdown
+### 1. O conjunto de dados
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O conjunto de dados usado é composto por x linhas e colunas... e tem como fonte ...
 
-```markdown
-Syntax highlighted code block
+### 2. Algumas perguntas
 
-# Header 1
-## Header 2
-### Header 3
+As perguntas que vão guiar essa análise
 
-- Bulleted
-- List
+### 3. Visuais e interpretações
 
-1. Numbered
-2. List
+Relatórios e o que pode-se ver com esses relatórios
 
-**Bold** and _Italic_ and `Code` text
+### 4. Oportunidades
 
-[Link](url) and ![Image](src)
-```
+Quais ações podem ser tomadas pra ganhar dinheiro a partir das informações coletadas
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 5. Próximos passos
 
-### Jekyll Themes
+Quais próximas análises devo fazer para entender melhor
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dibpedro/shopping-bi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contato
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Para dúvidas, mandar email para pedrodib100@gmail.com.
+[Linkedin](https://www.linkedin.com/in/pedro-dib-597700139/)
