@@ -13,12 +13,16 @@ Você pode checar os [arquivos no github](https://github.com/dibpedro/shopping-b
 
 ### 1. O conjunto de dados
 
-O conjunto de dados usado é composto por x linhas e colunas... e tem como fonte ...
-
+O conjunto de dados usado é composto por 
 ### 2. Algumas perguntas
 
-As perguntas que vão guiar essa análise
-
+1. O que o brasileiro tende a comprar mais pela internet?
+2. Quais os estados que mais realizaram compras on-line nesse período?
+3. Existe preferência por método de pagamento e costume de parcelamento das compras?
+4. O valor dos produtos influencia na quantidade de parcelas?
+5. Qual a participação do frete nessa receita?
+6. Para o cliente, o valor pago pelo frete compensa o tempo de espera?
+7. Pra quais estados o frete é mais caro?
 ### 3. Visuais e interpretações
 
 Relatórios e o que pode-se ver com esses relatórios
