@@ -13,7 +13,7 @@ Você pode checar os [arquivos no github](https://github.com/dibpedro/shopping-b
 
 ### 1. O conjunto de dados
 
-O conjunto de dados usado é composto por 
+O conjunto de dados usado é composto por informações acerca de mais de 100 mil pedidos de compra on-line realizados entre 2016 e 2018 em diversas lojas brasileiras. Os dados foram fornecidos pela Olist e obtidos através do link https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_orders_dataset.csv.
 ### 2. Algumas perguntas
 
 1. O que o brasileiro tende a comprar mais pela internet?
@@ -32,7 +32,7 @@ O conjunto de dados usado é composto por
 Parece existir certa relação entre o custo do frete/tempo de entrega e o número de compras realizadas por Estado. SP, que tem as menores taxas de frete e tempo de entrega, possui a maior parcela do total movimentado por cada estado. Já estados como PB e AL, cujos preços médios de frete e tempo de entrega são consideravelmente mais altos que de outros estados, possuem pouca participação na quantidade total arrecadada. Investimentos que visem diminuir esses custos para os clientes podem ser um incentivo para fazê-los optarem por lojas digitais em detrimento das lojas físicas.
 ### 5. Próximos passos
 
-As próximas análises seriam em torno das categorias mais vendidas em cada mês e em cada época do ano, de modo que possamos fazer previsões para o estoque necessário e realizar também investimentos nas publicidades direcionadas para cada público, sempre com o foco em atrair mais clientes. 
+As próximas análises seriam em torno das categorias mais vendidas em cada mês e em cada época do ano, de modo que possamos fazer previsões para o estoque necessário e realizar também investimentos nas publicidades direcionadas para cada público, com foco em atrair mais clientes, além de manter os atuais. 
 
 ### Contato
 
