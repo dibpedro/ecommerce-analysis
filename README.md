@@ -29,11 +29,10 @@ O conjunto de dados usado é composto por
 
 ### 4. Oportunidades
 
-Quais ações podem ser tomadas pra ganhar dinheiro a partir das informações coletadas
-
+Parece existir certa relação entre o custo do frete/tempo de entrega e o número de compras realizadas por Estado. SP, que tem as menores taxas de frete e tempo de entrega, possui a maior parcela do total movimentado por cada estado. Já estados como PB e AL, cujos preços médios de frete e tempo de entrega são consideravelmente mais altos que de outros estados, possuem pouca participação na quantidade total arrecadada. Investimentos que visem diminuir esses custos para os clientes podem ser um incentivo para fazê-los optarem por lojas digitais em detrimento das lojas físicas.
 ### 5. Próximos passos
 
-Quais próximas análises devo fazer para entender melhor
+As próximas análises seriam em torno das categorias mais vendidas em cada mês e em cada época do ano, de modo que possamos fazer previsões para o estoque necessário e realizar também investimentos nas publicidades direcionadas para cada público, sempre com o foco em atrair mais clientes. 
 
 ### Contato
 
