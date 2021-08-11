@@ -19,7 +19,7 @@ O conjunto de dados usado é composto por
 1. O que o brasileiro tende a comprar mais pela internet?
 2. Quais os estados que mais realizaram compras on-line nesse período?
 3. Existe preferência por método de pagamento e costume de parcelamento das compras?
-4. O valor dos produtos influencia na quantidade de parcelas?
+4. O que influencia a quantidade de parcelas?
 5. Qual a participação do frete nessa receita?
 6. Para o cliente, o valor pago pelo frete compensa o tempo de espera?
 7. Pra quais estados o frete é mais caro?
