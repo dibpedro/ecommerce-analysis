@@ -1,4 +1,4 @@
-## Shopping-BI
+## eCommerce-Analysis
 
 Você pode checar os [arquivos no github](https://github.com/dibpedro/shopping-bi/) para essa visualização. ecommerce-analysis é um projeto de análise dos dados de compra on-line realizados em sites brasileiros entre 2016 e 2018. O projeto teve o objetivo de identificar padrões entre os usuários dos sites e utilizar esses padrões em possíveis tomadas de decisão posteriormente. A análise foi feita em Excel e Power BI
 
