@@ -1,6 +1,6 @@
 ## Shopping-BI
 
-Você pode checar os [arquivos no github](https://github.com/dibpedro/shopping-bi/) para essa visualização. Shopping-BI é o projeto de uma análise dos dados de compra...
+Você pode checar os [arquivos no github](https://github.com/dibpedro/shopping-bi/) para essa visualização. Shopping-BI é o projeto de uma análise dos dados de compra on-line
 
 ### 0. Tabela de Conteúdos
 * [0. Tabela de Conteúdos](#0-tabela-de-conteúdos)
